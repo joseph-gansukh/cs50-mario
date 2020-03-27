@@ -54,3 +54,15 @@ Height: 4
  ###  ###
 ####  ####
 ```
+
+***
+
+# How to run the programs?
+
+1. Compile by running make or clang or gcc in terminal
+2. Run the program by running ./mario-1 or ./mario-2
+
+
+# Word of caution when compiling
+
+You must install CS50 library for C in order to compile. Installation guide is [here](https://cs50.readthedocs.io/library/c/). 
