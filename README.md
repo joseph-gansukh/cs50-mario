@@ -59,7 +59,7 @@ Height: 4
 
 # How to run the programs?
 
-1. Compile by running make or clang or gcc in terminal
+1. Compile by running make mario or clang -o mario mario.c -lcs50 in terminal
 2. Run the program by running ./mario-1 or ./mario-2
 
 
